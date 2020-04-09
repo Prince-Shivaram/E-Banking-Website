@@ -6,7 +6,7 @@ E-banking is a web application for online banking with lots of amazing features.
 
 To create this application, for frontend part we have used HTML, CSS, JavaScript, JQuery and Bootstrap. Also, we have used PHP and Laravel for backend. Laravel is a popular PHP framework. Data flow from one page to another is controlled by laravel controller. To connect with database, we have used MySQL database.
 
-The Website is created by [J. Siv Ram Shastri](https://www.linkedin.com/in/imsivram1999/) and the team.
+The Website is created by [J. Siv Ram Shastri](https://www.linkedin.com/in/imsivram1999/), [Sandeep Anumalla](https://www.linkedin.com/in/sandeepanumalla/), [Subba Reddy](https://www.linkedin.com/in/subbareddy-pabbidi-4a7387170/).
 
 ## Tools or Softwares required to use
 
