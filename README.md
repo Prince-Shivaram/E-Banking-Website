@@ -17,7 +17,7 @@ The Project is created by [J. Siv Ram Shastri](https://www.linkedin.com/in/imsiv
 5. Git Bash supports Laravel command terminal.
 
 
-## Show some :heart: and star the repo to support the project
+## Show some :heart: and :star: the repo to support the project
 
 ### 1. Home Page 
 ![1 home page](https://user-images.githubusercontent.com/42378118/78509268-9b304900-77aa-11ea-8ce8-e297aeae1056.png)
